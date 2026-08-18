@@ -1,7 +1,5 @@
 # README: AE-Interactive-Community-Map
 
-**Link:** [https://scarlettmsj9-svg.github.io/AE-Interactive-Community-Map/](https://scarlettmsj9-svg.github.io/AE-Interactive-Community-Map/)
-
 ## Description
 
 This interactive map visualizes the geographical distribution of Arts Etobicoke contributors alongside community context, including neighbourhood income levels, Toronto’s transit network, and our two galleries.
@@ -9,10 +7,6 @@ This interactive map visualizes the geographical distribution of Arts Etobicoke 
 To protect privacy, the data is anonymized. Contributors are identified by a contributor ID, and their 6-digit postal codes are simplified to 3-digit postal codes.
 
 This map is intended to help us understand where our contributors come from, how they engage with us, and what their involvement journeys look like. This map is a work-in-progress version.
-
-## How to Run
-
-* **Open link:** [https://scarlettmsj9-svg.github.io/AE-Interactive-Community-Map/](https://scarlettmsj9-svg.github.io/AE-Interactive-Community-Map/)
 
 ## Key Features
 
